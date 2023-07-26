@@ -7,26 +7,16 @@ nav.floating{
     background-color: #d0d0d0;
 }
 
-.store-name{
-    width: 100%;
-    max-width: 1500px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 40px;
-    padding-right: 80px;
-    color: #ffffff;
-    font-weight: bold;
-    text-shadow: 1px 1px 10px #4b2c14;
-}
-
-.store-name n1 {
+.ranking-view h1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 156px;
-    line-height: 172px;
+    color: #0a0a0a;
+    text-shadow: 1px 1px 10px #ff0000;
+    font-size: 75px;
+    line-height: 72px;
 }
 .first-view {
-    height: calc(100vh - 120px);
-    background-image: url(../images/index/ra-men.jpg);
+    height: calc(100vh - 80px);
+    background-image: url(../images/top/ramen-top.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
